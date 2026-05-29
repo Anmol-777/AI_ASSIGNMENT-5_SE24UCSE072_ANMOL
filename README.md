@@ -1,5 +1,7 @@
 READ ME FOR ALL CODES
- 1 — Adversarial Search Algorithms
+
+
+1 — Adversarial Search Algorithms
 This project implements four AI search algorithms used in game-playing and adversarial decision-making, demonstrated on a Tic-Tac-Toe environment.
 Algorithms Implemented
 
