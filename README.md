@@ -9,8 +9,8 @@ Monte Carlo Tree Search (MCTS)
 
 Project Structure
 assignment1/
-├── assignment1_search.py
-└── README.md
+ assignment1_search.py
+ README.md
 Requirements
 Python 3.10 or higher. No external dependencies needed.
 How to Run
